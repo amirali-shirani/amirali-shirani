@@ -66,8 +66,9 @@ Hobbies: Coding 👨‍💻 | Fitness 🏋️ | Gaming 🎮 | Learning 📚
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
-  <img src="https://i.gifer.com/3AyY.gif" width="200"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+  <img src="https://i.gifer.com/3AyY.gif" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&s" width="300"/>
 </p>
 
 ---
