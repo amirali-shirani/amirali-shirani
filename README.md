@@ -32,7 +32,7 @@ Hobbies: Coding 👨‍💻 | Fitness 🏋️ | Gaming 🎮 | Learning 📚
 
 ### 🚀 Projects
 - 🌍 [shirani.vercel.app](https://shirani.vercel.app) — My personal portfolio  
-- 📱 Country App — Ongoing project  
+- 📱 Dashboard — Ongoing project  
 - 🛠️ More cool stuff in pinned repos!
 
 ---
