@@ -19,20 +19,31 @@
 ---
 
 ### 🧠 About Me
-```yaml
-Name: AmirAli Shirani
-Role: Frontend Developer
-Country: 🇮🇷 Iran
-Favorite Stack: React.js ⚛️, Next.js 🚀, Tailwind CSS 💨
-Currently Learning: TypeScript 🌀 & Python 🐍
-Hobbies: Coding 👨‍💻 | Fitness 🏋️ | Gaming 🎮 | Learning 📚
-```
+- 👋 Name: AmirAli Shirani
+- 🏗️ Role: Frontend Developer
+- 🌍 Country: 🇮🇷 Iran
+- 💻 Favorite Stack: React.js ⚛️, Next.js 🚀, Tailwind CSS 💨
+- 🎯 Hobbies: Coding 👨‍💻 | Fitness 🏋️ | Gaming 🎮 | Learning 📚
+
 
 ---
 
+### 💼 Work Experience
+- 🏢 Frontend Developer at [PartaCode] (2022 — Present)
+- 🛠️ Working on enterprise-level dashboards & GIS-based apps
+- ⚡ Specializing in performance optimization & scalable UI components
+--- 
+
+### 📈 Focus Areas
+- 🚀 Scalable Frontend Architectures
+- 🌐 GIS & Map-based Data Visualization
+- 🧪 Component Libraries & Design Systems
+- 🔍 UI/UX Performance Optimization
+--- 
+
 ### 🚀 Projects
 - 🌍 [shirani.vercel.app](https://shirani.vercel.app) — My personal portfolio  
-- 📱 Dashboard — Ongoing project  
+- 📱 FitLandShop — Ongoing project  
 - 🛠️ More cool stuff in pinned repos!
 
 ---
@@ -44,19 +55,28 @@ Hobbies: Coding 👨‍💻 | Fitness 🏋️ | Gaming 🎮 | Learning 📚
 
 ---
 
+### 📚 Currently Learning & Exploring
+- Advanced TypeScript Patterns 🌀
+- Backend Basics with Python 🐍
+- State Management (Zustand, React Query)
+- DevOps Basics (CI/CD Pipelines)
+---
+
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/amirali-shirani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/amirali._shirani" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:amirali7shirani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/amirali_shirani" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+
 
 ---
 
-### 📊 Stats
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirali-shirani&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirali-shirani&theme=radical" width="450"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amirali-shirani&theme=radical&margin-w=15&no-bg=true" />
 </p>
 
 <p align="center">
@@ -65,13 +85,15 @@ Hobbies: Coding 👨‍💻 | Fitness 🏋️ | Gaming 🎮 | Learning 📚
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-  <img src="https://i.gifer.com/3AyY.gif" width="300"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&s" width="300"/>
-</p>
+<div align="center">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&s" width="300"/>
+</div>
+
 
 ---
+<p align="center">
+  🚀 Open to exciting Frontend opportunities — Let's connect!
+</p>
 
 <p align="center">
   💡 "Code hard, dream big, and let your skills do the talking." 💥
