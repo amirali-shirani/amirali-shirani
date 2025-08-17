@@ -29,7 +29,8 @@
 ---
 
 ### 💼 Work Experience
-- 🏢 Frontend Developer at [PartaCode] (2022 — Present)
+- 🏢 Frontend Developer at PartaCode (2024 — 2025)
+-  🏢 Frontend Developer at MakanSystem (2025 — present)
 - 🛠️ Working on enterprise-level dashboards & GIS-based apps
 - ⚡ Specializing in performance optimization & scalable UI components
 --- 
