@@ -75,9 +75,9 @@
 ---
 
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirali-shirani&theme=radical&margin-w=15&no-bg=true" />
+### 🏆 GitHub Trophies  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=amirali-shirani&theme=radical&margin-w=10&no-bg=true&no-frame=true&row=1&column=5&achievements=stars,commits,prs,issues,followers" /> 
 </p>
 
 <p align="center">
